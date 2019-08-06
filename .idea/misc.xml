@@ -10,8 +10,17 @@
         <option value="$PROJECT_DIR$/auth/authorization-server/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/center/pom.xml" />
+        <option value="$PROJECT_DIR$/center/nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/business/product/pom.xml" />
         <option value="$PROJECT_DIR$/business/pom.xml" />
+        <option value="$PROJECT_DIR$/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/admin/organization/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/business/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">

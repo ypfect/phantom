@@ -2,13 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/organization" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/auth" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/auth/authentication-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/auth/authentication-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/auth/authorization-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/business/product" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/center/nacos" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
   </component>
 </project>

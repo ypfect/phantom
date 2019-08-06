@@ -6,17 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="center" />
         <module name="gateway" />
+        <module name="organization" />
+        <module name="product" />
         <module name="authorization-server" />
         <module name="business" />
+        <module name="authentication-client" />
         <module name="auth" />
         <module name="authentication-server" />
-        <module name="authentication-client" />
+        <module name="nacos" />
+        <module name="center" />
         <module name="phantom" />
+        <module name="admin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="admin" target="1.8" />
       <module name="auth" target="1.8" />
       <module name="authentication-client" target="1.8" />
       <module name="authentication-server" target="1.8" />
@@ -24,11 +29,16 @@
       <module name="business" target="1.8" />
       <module name="center" target="1.8" />
       <module name="gateway" target="1.8" />
+      <module name="nacos" target="1.8" />
+      <module name="organization" target="1.8" />
       <module name="phantom" target="1.8" />
+      <module name="product" target="1.8" />
+      <module name="product (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="" />
       <module name="auth" options="" />
       <module name="authentication-client" options="-parameters" />
       <module name="authentication-server" options="-parameters" />
@@ -36,7 +46,11 @@
       <module name="business" options="" />
       <module name="center" options="" />
       <module name="gateway" options="" />
+      <module name="nacos" options="" />
+      <module name="organization" options="" />
       <module name="phantom" options="" />
+      <module name="product" options="" />
+      <module name="product (1)" options="-parameters" />
     </option>
   </component>
 </project>

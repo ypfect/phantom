@@ -1,4 +1,4 @@
-package com.overstar.center.rest;
+package com.overstar.nacos;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

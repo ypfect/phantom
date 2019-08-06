@@ -4,25 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.overstar</groupId>
-    <artifactId>center</artifactId>
+    <artifactId>nacos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>center</name>
+    <name>nacos</name>
+    <description>Demo project for Spring Boot</description>
 
     <parent>
         <groupId>com.overstar</groupId>
-        <artifactId>phantom</artifactId>
+        <artifactId>center</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-
-    <modules>
-        <module>nacos</module>
-    </modules>
-    <dependencies>
-
-         <dependency>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-    </dependencies>
 
 </project>
