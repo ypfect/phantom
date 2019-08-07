@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.159.131:8848
+        namespace: 3e2f311e-4bb7-4556-a98e-78d5915dbba5
+        group: dev
+  application:
+    name: springcloud-gateway

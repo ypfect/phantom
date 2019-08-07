@@ -6,18 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="center" />
         <module name="gateway" />
-        <module name="organization" />
         <module name="product" />
         <module name="authorization-server" />
         <module name="business" />
-        <module name="authentication-client" />
+        <module name="admin" />
         <module name="auth" />
         <module name="authentication-server" />
-        <module name="nacos" />
-        <module name="center" />
+        <module name="authentication-client" />
+        <module name="organization" />
         <module name="phantom" />
-        <module name="admin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

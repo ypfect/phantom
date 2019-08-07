@@ -10,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
       <module fileurl="file://$PROJECT_DIR$/center/center.iml" filepath="$PROJECT_DIR$/center/center.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/center/nacos/nacos.iml" filepath="$PROJECT_DIR$/center/nacos/nacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/admin/organization/organization.iml" filepath="$PROJECT_DIR$/admin/organization/organization.iml" />
       <module fileurl="file://$PROJECT_DIR$/phantom.iml" filepath="$PROJECT_DIR$/phantom.iml" />
       <module fileurl="file://$PROJECT_DIR$/business/product/product.iml" filepath="$PROJECT_DIR$/business/product/product.iml" />
